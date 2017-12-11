@@ -8,7 +8,7 @@ FRONT-END
 
 
 BACK-END
-
+Java (video series) | https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28
 
 MACHINE LEARNING
 Neural Networks (video series) | https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
