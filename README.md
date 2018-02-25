@@ -4,7 +4,7 @@
 # Front End
 
 # Backend
-Java (video series) | https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28
+[Video Series on Java](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28)
 
 # Machine Learning
 [Video Series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
