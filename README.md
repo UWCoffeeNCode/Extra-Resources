@@ -1,3 +1,6 @@
+# UW Coffee 'n Code
+[Wiki (club info, programming infosheets, walkthroughs, and more)](https://github.com/UWCoffeeNCode/resources/wiki)
+
 # Courses
 [Free Code Camp](https://www.freecodecamp.org/)
 
