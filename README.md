@@ -5,6 +5,7 @@
 [Free Code Camp](https://www.freecodecamp.org/)
 
 # Front End
+[Front-End Developer Handbook 2018 _by Frontend Masters_](https://legacy.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details)
 
 # Backend
 [Video series on Java](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28)
