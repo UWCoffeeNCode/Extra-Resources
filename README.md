@@ -12,6 +12,9 @@
 
 # Machine Learning
 [Video series on neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+[Video Series on Intro to Deep Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
+
+[Curriculum for Learning Machine Learning in 3 Months](https://www.youtube.com/watch?v=Cr6VqTRO1v0)
 
 # Version Control
 [Git tutorial _(Interactive Tutorial, 15 minutes)_](https://try.github.io/levels/1/challenges/1)
