@@ -4,7 +4,7 @@
 # Courses
 [Free Code Camp](https://www.freecodecamp.org/)
 
-[Learn Ruby The Hard Way _Zed A. Shaw_](https://learnrubythehardway.org/book/)
+[Learn Ruby The Hard Way _by Zed A. Shaw_](https://learnrubythehardway.org/book/)
 
 # Web Development
 
