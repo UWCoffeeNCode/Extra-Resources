@@ -33,6 +33,8 @@
 
 [Curriculum for Learning Machine Learning in 3 Months](https://www.youtube.com/watch?v=Cr6VqTRO1v0)
 
+[Stanford Course on Convolutional Neural Networks](http://cs231n.stanford.edu/)
+
 # Version Control
 [Git tutorial _(Interactive Tutorial, 15 minutes)_](https://try.github.io/levels/1/challenges/1)
 
