@@ -57,6 +57,8 @@ All the links below are external resources we compiled to help you on your codin
 [Beginner's guide to developing for Google Assistant](https://developers.google.com/actions/design/)
 
 ## Game Development
+[Video series on Pygame _by sentdex_](https://www.youtube.com/watch?v=ujOTNg17LjI&list=PLQVvvaa0QuDdLkP8MrOXLe_rKuf6r80KO)
+
 [Multiplayer robot battle tanks arena (JAVA, .NET)](http://robowiki.net/wiki/Robocode/FAQ)
 
 ## Computer Vision
