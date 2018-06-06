@@ -53,6 +53,8 @@ All the links below are external resources we compiled to help you on your codin
 ## Technical Interviews
 [Technical interview cheatsheet _by Tristan Siegel_](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 
+[123 Essential Javascript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Question)
+
 ## Digital Assistants
 [Beginner's guide to developing for Google Assistant](https://developers.google.com/actions/design/)
 
