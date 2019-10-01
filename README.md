@@ -84,6 +84,8 @@ All the links below are external resources we compiled to help you on your codin
 
 [A guide to regular expressions](http://www.zytrax.com/tech/web/regex.htm#search)
 
+[AI-generated face you can use, royalty-free](https://generated.photos/)
+
 ## Miscellaneous
 
 [Collection of personal websites from Hackathon Hackers](https://github.com/HackathonHackers/personal-sites)
